@@ -1,0 +1,10 @@
+/Users/Kevin/Desktop/C#_stack/ORM/Entity/restauranter/bin/Debug/netcoreapp2.0/restauranter.deps.json
+/Users/Kevin/Desktop/C#_stack/ORM/Entity/restauranter/bin/Debug/netcoreapp2.0/restauranter.runtimeconfig.json
+/Users/Kevin/Desktop/C#_stack/ORM/Entity/restauranter/bin/Debug/netcoreapp2.0/restauranter.runtimeconfig.dev.json
+/Users/Kevin/Desktop/C#_stack/ORM/Entity/restauranter/bin/Debug/netcoreapp2.0/restauranter.dll
+/Users/Kevin/Desktop/C#_stack/ORM/Entity/restauranter/bin/Debug/netcoreapp2.0/restauranter.pdb
+/Users/Kevin/Desktop/C#_stack/ORM/Entity/restauranter/obj/Debug/netcoreapp2.0/restauranter.csproj.CoreCompileInputs.cache
+/Users/Kevin/Desktop/C#_stack/ORM/Entity/restauranter/obj/Debug/netcoreapp2.0/restauranter.AssemblyInfoInputs.cache
+/Users/Kevin/Desktop/C#_stack/ORM/Entity/restauranter/obj/Debug/netcoreapp2.0/restauranter.AssemblyInfo.cs
+/Users/Kevin/Desktop/C#_stack/ORM/Entity/restauranter/obj/Debug/netcoreapp2.0/restauranter.dll
+/Users/Kevin/Desktop/C#_stack/ORM/Entity/restauranter/obj/Debug/netcoreapp2.0/restauranter.pdb

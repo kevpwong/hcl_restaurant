@@ -1,0 +1,49 @@
+﻿@model restauranter.Models.Review
+
+<h2>Write a new Review</h2>
+<table>
+<form asp-controller="Home" asp-action="NewReview" method="post">
+    <tr>
+        <td> <label asp-for="Reviewer">Reviewer Name:</label></td>
+        <td>
+            <input asp-for="Reviewer"/>
+            <span asp-validation-for="Reviewer"></span>
+        </td>
+    </tr>
+   <tr>
+       <td><label asp-for="Restaurant">Restaurant Name:</label></td>
+       <td>
+           <input asp-for="Restaurant"/>
+           <span asp-validation-for="Restaurant"></span>
+        </td>
+   </tr>
+    <tr>
+        <td><label asp-for="Stars">Stars:</label></td>
+        <td>
+            <select asp-for="Stars">
+                <option value="1">1</option> 
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+            <span asp-validation-for="Stars"></span>
+        </td>
+    </tr>
+    <tr>
+        <td><label asp-for="Reviews">Review:</label></td>
+        <td>
+            <input asp-for="Reviews"/>
+            <span asp-validation-for="Reviews"></span>
+        </td>
+    </tr>
+    <tr>
+        <td><label asp-for="Visit_Date">Date of Visit:</label></td>
+        <td>
+            <input asp-for="Visit_Date" type="date"/>
+            <span asp-validation-for="Visit_Date"></span>
+        </td>
+    </tr>    
+    <tr><td><button type="submit">Add a new Review</button></td></tr>
+</form>
+</table>
